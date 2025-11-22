@@ -9,7 +9,7 @@ def add_todo():
     functions.write_todos(todos)
 
 st.title("My Todo App")
-st.subheader("This is my todo app.")
+st.subheader("Lock in boi")
 st.write("This app is to increase your productivity.")
 
 for index, todo in enumerate(todos):
